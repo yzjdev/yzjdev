@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yzjdev&show_icons=true&hide=contribs&include_all_commits=true" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋)](https://git.io/typing-svg)
