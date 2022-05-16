@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **yzjdev/yzjdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning ...
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yzjdev&show_icons=true&hide=contribs&include_all_commits=true" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+👋)](https://git.io/typing-svg)
